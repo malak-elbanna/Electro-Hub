@@ -5,12 +5,12 @@ This project is entirely based on taking advantage of the wastewater produced by
 
 I am grateful for the opportunity to work on this project for my senior year capstone project, especially because I expanded my software and hardware knowledge by dealing with different types of sensors. The communication system is connected to a mobile application to help the user control the functions easily. 
 
-Materials used in the communication system: -
-Arduino UNO
-Power Supply
-Breadboards
-LDR sensor
-LCD 16x2
+## Materials used in the communication system: -
+### Arduino UNO
+### Power Supply
+### Breadboards
+### LDR sensor
+### LCD 16x2
 Power switch
 Plastic box
 Ultrasonic sensor
