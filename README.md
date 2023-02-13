@@ -23,5 +23,5 @@ I am grateful for the opportunity to work on this project for my senior year cap
 #### Bluetooth Module HC-05
 #### Potentiometer
 
-###### 1-min Demo
+## 1-min Demo
 https://youtu.be/wswoKxvVnSY!
